@@ -11,3 +11,4 @@
 3. Crear BBDD Postgress en neon.tech
 4. Clonar archivo ```.env.template```
 5. Cambiar variables entorno con valores de BBDD neon.tech
+6. Seed Database ```http://localhost:3000/api/seed```
